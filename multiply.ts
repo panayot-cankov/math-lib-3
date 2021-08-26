@@ -1,2 +1,3 @@
-export function multiply(x: number) {
-    // TODO: 
+export function multiply(x: number, y: number) {
+    return x * y;
+}
