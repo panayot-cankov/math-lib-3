@@ -1,0 +1,23 @@
+{
+  "name": "math-lib-3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "prepare": "tsc",
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/chai": "^4.2.21",
+    "@types/jest": "^27.0.1",
+    "@types/node": "^16.7.2",
+    "chai": "^4.3.4",
+    "jest": "^27.0.6",
+    "typescript": "^4.3.5"
+  },
+  "jest": {
+    "moduleFileExtensions": ["js"]
+  }
+}
