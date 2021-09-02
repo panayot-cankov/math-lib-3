@@ -8,5 +8,6 @@ export function cos(a: number) {
 }
 
 export function sin(a: number) {
+    // Fix
     return Math.sin(a);
 }
